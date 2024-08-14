@@ -1,0 +1,338 @@
+*{
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+.side{
+    height:1200px;
+    width:300px;
+    /* background-color: #E3A5C7; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("https://img.freepik.com/free-photo/beautiful-sky-landscape-digital-art-style_23-2151120826.jpg");
+    background-size: cover;
+}
+.photo{
+    height:150px;
+    width:150px;
+    border-radius: 50%;
+    border: 2px solid #921A40;
+    background-color: aliceblue;
+    position: relative;
+    bottom: 350px;
+    display: flex;
+    justify-content: center;
+    background-image: url("images/trisha.jpg");
+    background-size:cover;
+}
+.me{
+    color: rgba(0, 0, 0, .3);
+    position: relative;
+    left: 310px;
+    bottom: 1150px;
+   
+}
+.me :hover{
+    font-size: 1.2em;
+    color: black;
+    font-weight: 700;
+
+}
+ h1{
+    color:black;
+    position: relative;
+    left:500px;
+    top:20px;
+    font-size: 50px;
+    font-weight: 50px;
+    font-family:sans-serif;
+   
+}
+.me1{
+    height:120px;
+    background-color: #a957c5;
+    position: relative;
+    bottom: 1200px;
+    left:300px;
+    background-image: url("https://media.istockphoto.com/id/1026330454/photo/clouds-and-bright-blue-sky-background-panoramic-angle-view.jpg?s=612x612&w=0&k=20&c=IfqTMDvX6y9oqJPW3Up2_2X59IUlV3IchDXQIoEIE-g=");
+    background-size: cover;
+  
+} 
+body{
+    background-color: #FFDFD6;
+    background-image: url("https://png.pngtree.com/background/20221228/original/pngtree-original-tanabata-love-romantic-starry-sky-clouds-blue-sky-white-clouds-picture-image_1993274.jpg");
+    
+    background-size: cover;
+}
+.container{
+    width:1000px;
+    height:1500px;
+    display: flex;
+    flex-direction: row;
+   
+
+}
+.edu{
+    height:250px;
+    width:600px;
+    border-radius: 20px;
+    border: 2px solid #021526;
+    background-color: #F8EDED;
+    position:relative;
+    left:350px;
+    bottom:900px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-image: url("https://www.shutterstock.com/shutterstock/photos/767491552/display_1500/stock-vector-education-tree-of-knowledge-and-open-book-effective-modern-education-template-design-back-to-767491552.jpg");
+    background-size: cover;
+     
+}
+h3{
+    position: relative;
+    bottom:25px;
+    left:50px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.edu:hover{
+    height:400px;
+    width:700px;
+   
+}
+.one{
+    /* background-color: aquamarine; */
+    position: relative;
+    top:50px;
+    color: rgba(0, 0, 0, .3);
+    /* height:200px; */
+}
+.one:hover{
+    font-size: 1.3em;
+    color: black;
+    background-color:#F6FB7A;
+
+}
+.skill{
+    height:250px;
+    width:600px;
+    border-radius: 20px;
+    border: 2px solid #021526;
+    background-color: #F8EDED;
+    position:relative;
+    left:400px;
+    bottom:900px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCcAmWduOBA1oBdpRN35J3qYGbwICrzCPgg7vLrzofyVC6A5fblG3ugzbObGQ4_nNj28&usqp=CAU");
+    background-size: cover;
+}
+#hi{
+    position: relative;
+    top:10px;
+    left:40px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.two{
+    position: relative;
+    right:-40px;
+    position: relative;
+    top:25px;
+    width:200px;
+    color: rgba(0, 0, 0, .3);
+}
+
+.two:hover{
+    font-size: 1.3em;
+    color: black;
+    background-color:#B4E380;
+
+}
+.skill:hover{
+    height:400px;
+    width:700px;
+}
+.skill2{
+    
+        height:250px;
+        width:600px;
+        border-radius: 20px;
+        border: 2px solid #021526;
+        background-color: #F8EDED;
+        position:relative;
+        left:450px;
+        bottom:900px;
+        display:flex;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        background-image: url("https://youthemploymentmag.net/wp-content/uploads/2020/12/Schermata-2020-12-01-alle-18.16.52.png");
+        background-size: cover;
+    background-size: cover;
+}
+#hi2{
+    position: relative;
+    bottom: 30px;
+    left:60px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.three{
+    position: relative;
+    right:-40px;
+    position: relative;
+    top:25px;
+    width:200px;
+    color: rgba(0, 0, 0, .3);
+}
+
+.three:hover{
+    font-size: 1.3em;
+    color: black;
+    background-color:#739fb7;
+
+}
+.skill2:hover{
+    height:400px;
+    width:700px;
+}
+.intern{
+    height:250px;
+    width:340px;
+    border-radius: 20px;
+    border: 2px solid #021526;
+    background-color: #F8EDED;
+    position:relative;
+    left:500px;
+    top:-2000px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-image: url("https://www.naukri.com/campus/career-guidance/wp-content/uploads/2023/10/internship-resume.png");
+    background-size: cover;
+}
+#hi3{
+    position: relative;
+    bottom: 30px;
+    left:60px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.four{
+    position: relative;
+    right:-40px;
+    position: relative;
+    top:25px;
+    width:200px;
+    color: rgba(0, 0, 0, .3);
+}
+
+.four:hover{
+    font-size: 1.3em;
+    color: black;
+    background-color:#FF8C9E;
+
+}
+.intern:hover{
+    height:400px;
+    width:350px;
+}
+.award{
+    height:250px;
+    width:340px;
+    border-radius: 20px;
+    border: 2px solid #103e67;
+    background-color: #F8EDED;
+    position:relative;
+    left:950px;
+    top:-2250px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWOtrsPqgPundx78TSuiDyiqSlu2OK5MVag&s");
+    background-size: cover;
+}
+#hi4{
+    position: relative;
+    bottom: 30px;
+    left:30px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.five{
+    position: relative;
+    right:-40px;
+    position: relative;
+    top:25px;
+    width:200px;
+    color: rgba(0, 0, 0, .3);
+}
+
+.five:hover{
+    font-size: 1.3em;
+    color: black;
+    background-color:#deb2db;
+
+}
+.award:hover{
+    height:400px;
+    width:350px;
+}
+b{
+    position: relative;
+    bottom:340px;
+    left: 40px;
+    font-size: 20px;
+}
+#P{
+    position: relative;
+    bottom:200px;
+    right: 15px;
+    font-weight: 400;
+    font-size: 1.5em;
+    font-weight: 700;
+    text-decoration: underline;
+}
+#det{
+    position: relative;
+    bottom:200px;
+    left: 1px;
+    line-height: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    color: darkred;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: solid;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+    color: darkred;
+}
+.footer{
+    position: relative;
+    top:-2180px;
+    
+     height:200px;
+     width:1590px;;
+    color:rgb(195, 26, 26);
+    font-size: 30px;
+    font-weight: 600;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BNR4gxhh0xc10wVbCnBYfU6FluQinSRohA&s");
+    background-size: cover;
+    text-align: center;
+}
